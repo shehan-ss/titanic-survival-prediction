@@ -1,0 +1,14 @@
+{
+    "age_mean": 29.770702362060547,
+    "embarked_mode": "S",
+    "feature_columns": [
+        "Pclass",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Fare",
+        "Embarked_Q",
+        "Embarked_S"
+    ]
+}
